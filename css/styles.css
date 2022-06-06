@@ -10128,7 +10128,7 @@ h3 {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 50rem;
+  width: justify;
   padding-top: 10rem;
 }
 
